@@ -1,0 +1,18 @@
+[
+    {
+        "id": "101",
+        "name": "Riya",
+        "age": "21",
+        "email": "riya@gmail.com",
+        "course_name": "BCom",
+        "course_id": "78"
+    },
+    {
+        "id": "102",
+        "name": "Dev",
+        "age": "23",
+        "email": "dev34@gmail.com",
+        "course_name": "BBA",
+        "course_id": "75"
+    }
+]
